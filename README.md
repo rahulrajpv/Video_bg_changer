@@ -34,7 +34,7 @@ These instructions will get you a copy of the project up and running on your loc
 2. OpenCV library
 3. Installing
 4. Clone the repository:
-git clone https://github.com/your_username/video_background_changer.git
+git clone https://github.com/rahulrajpv/video_background_changer.git
 5. Install the required libraries:
 pip install opencv-python
 pip install cvzone
